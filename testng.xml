@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FacebookSuite">
+    <test name="FacebookTest">
+        <classes>
+            <class name="FacebookTest"/>
+        </classes>
+    </test>
+</suite>
